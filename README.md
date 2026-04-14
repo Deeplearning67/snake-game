@@ -4,7 +4,7 @@
 [![Pygame Version](https://img.shields.io/badge/pygame-2.6%2B-green.svg)](https://www.pygame.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/)
 
-> A classic Snake game built with Python and Pygame, featuring smooth animations, Chinese/English bilingual UI, and a high-score tracking system.
+> A classic Snake game built with Python and Pygame, featuring smooth animations,  and a high-score tracking system.
 
 ---
 
